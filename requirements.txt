@@ -1,0 +1,4 @@
+orjson
+passlib
+asyncpg
+rich
